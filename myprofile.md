@@ -1,5 +1,5 @@
 resource "spaceship_crew_member" "elena_kim" {
-  name        = "Elena Kim"
-  experience  = "15 years"
-  specialty   = "Space Medicine"
+  name        = "Angus McFive"
+  experience  = "8 Years"
+  specialty   = "Space-Technician"
 }
